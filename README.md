@@ -15,8 +15,6 @@ https://gitee.com/akinggw/Mole2dConfrontationplatform
 8. 机器人功能，在数据库配置好机器人后，机器人就可以使用了 
 9. 玩家无限制分成代理分销，充值，退款等功能
 
-#### 官方网站:
-http://akinggw.gitee.io/moleserver/
 
 #### 系列教程
 
@@ -70,8 +68,8 @@ port=3306
 12. 有关于xredis的使用方法，请参考：https://gitee.com/0xsky/xredis
 
 #### 联系作者
-欢迎加QQ群交流:131296225
-email:akinggw@126.com
+有问题可以提issue和联系我：
+QQ：2272317809
 
 [截图预览]  
 ![输入图片说明](https://gitee.com/akinggw/moleserver/raw/master/screen/net1.jpg)
